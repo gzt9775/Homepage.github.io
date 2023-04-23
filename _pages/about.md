@@ -18,21 +18,21 @@ I have broad interests in the span of network analysis, statistics, and optimiza
 Contact Information
 ======
 
-E-mail addresses: gzt9775@mail.ustc.edu.cn
-Wechat:  gzt2608548964
+E-mail addresses: gzt9775@mail.ustc.edu.cn \
+Wechat:  gzt2608548964 \
 Mobile:  +86 18305722652
 
 Awards and Honors
 ======
 
-(Sep.2022) The Rose Endeavor Scholarship (4 Awarded/50 Applied, Scope of Selection: The Whole School students) 
-(Sep.2020) Outstanding freshman scholarship (40% Awarded, Scope of Selection: The Whole School Students)
-(Apr.2022&2023) National Mathematics Competition For College Students (Second prize, Scope of Selection: All Participants)
-(Jun.2022) Outstanding Student Union Cadre (4 Awarded/10 Applied, Scope of Selection: All Members of Student Union)
+(Sep.2022) The Rose Endeavor Scholarship (4 Awarded/50 Applied, Scope of Selection: The Whole School students) \
+(Sep.2020) Outstanding freshman scholarship (40% Awarded, Scope of Selection: The Whole School Students) \
+(Apr.2022&2023) National Mathematics Competition For College Students (Second prize, Scope of Selection: All Participants) \
+(Jun.2022) Outstanding Student Union Cadre (4 Awarded/10 Applied, Scope of Selection: All Members of Student Union) \
 (Sep.2022) USTC Outstanding Students Award (15 Awarded/50 Applied, Scope of Selection: The Whole School students) 
 
 Skills
 ======
-  Programming: Python, R, C++, Matlab, Html, JavaScript, Java
-  Tools: Latex, Markdown, MySQL, Vue, Photoshop, WPS office
+  Programming: Python, R, C++, Matlab, Html, JavaScript, Java \
+  Tools: Latex, Markdown, MySQL, Vue, Photoshop, WPS office \
   Soft Skills: Leadership, Event Management, Writing, Public Speaking, Time Management
