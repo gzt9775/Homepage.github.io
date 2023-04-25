@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! My name is ZhengtaoGui. I obtained my Bachelor's degree in Statistics from the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/) in 2022. I was fortunate to be enrolled in the [School of the Gifted Young](https://sgy.ustc.edu.cn/) at USTC, for which I skipped my third year of high school. I am a student who wants to learn all the unknowns and a researcher who is fond of the beauty of mathematics and of the beings. I love statistics, which is both my life and my fun, the real logic of this world lies in the calculus of probability.
+Welcome to my homepage! My name is ZhengtaoGui. I obtained my Bachelor's degree in Statistics from the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/) in 2024. I was fortunate to be enrolled in the [School of the Gifted Young](https://sgy.ustc.edu.cn/) at USTC, for which I skipped my third year of high school. I am a student who wants to learn all the unknowns and a researcher who is fond of the beauty of mathematics and of the beings. I love statistics, which is both my life and my fun, the real logic of this world lies in the calculus of probability.
 
 Research Interests
 ======
@@ -29,7 +29,8 @@ Awards and Honors
 (Sep.2020) Outstanding freshman scholarship (40% Awarded, Scope of Selection: The Whole School Students) \
 (Apr.2022&2023) National Mathematics Competition For College Students (Second prize, Scope of Selection: All Participants) \
 (Jun.2022) Outstanding Student Union Cadre (4 Awarded/10 Applied, Scope of Selection: All Members of Student Union) \
-(Sep.2022) USTC Outstanding Students Award (15 Awarded/50 Applied, Scope of Selection: The Whole School students) 
+(Sep.2022) USTC Outstanding Students Award (15 Awarded/50 Applied, Scope of Selection: The Whole School students) \
+
 
 Skills
 ======
