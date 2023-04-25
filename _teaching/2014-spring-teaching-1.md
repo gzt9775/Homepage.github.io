@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant for Stochastic Processes"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "University of Science and Technology of China, Department of statistics"
 date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This course mainly introduces the basic concepts, methods and theory of stochastic processes. The contents include Poisson process, Markov chain and stationary process. It is required to master the relevant knowledge of these basic stochastic processes (based on the point of view of the sample path).
