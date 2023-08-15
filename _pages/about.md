@@ -8,12 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! My name is ZhengtaoGui. I obtained my Bachelor's degree in Statistics from the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/) in 2024. I was fortunate to be enrolled in the [School of the Gifted Young](https://sgy.ustc.edu.cn/) at USTC, for which I skipped my third year of high school. I am a student who wants to learn all the unknowns and a researcher who is fond of the beauty of mathematics and of the beings. I love statistics, which is both my life and my fun, the real logic of this world lies in the calculus of probability.
+Welcome to my homepage! My name is ZhengtaoGui. I am currently completing my Bachelor's degree in Statistics at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). I was fortunate to be enrolled in the [School of the Gifted Young](https://sgy.ustc.edu.cn/) at USTC, for which I skipped my third year of high school. I have broad interests in the span of network analysis, statistics, and optimization. I enjoy using mathematical and computational tools to develop theoretical foundations and principled methods for real-world problems. If you are interested in my background or want to chat or collaborate, feel free to contact me.
 
-Research Interests
-======
-
-I have broad interests in the span of network analysis, statistics, and optimization. I enjoy using mathematical and computational tools to develop theoretical foundations and principled methods for real-world problems. If you are interested in my background or want to chat or collaborate, feel free to contact me.
 
 Contact Information
 ======
@@ -35,5 +31,5 @@ Awards and Honors
 Skills
 ======
   Programming: Python, R, C++, Matlab, Html, JavaScript, Java \
-  Tools: Latex, Markdown, MySQL, Vue, Photoshop, WPS office \
+  Tools: Latex, Markdown, MySQL, Vue \
   Soft Skills: Leadership, Event Management, Writing, Public Speaking, Time Management
