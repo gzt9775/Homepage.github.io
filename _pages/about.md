@@ -23,7 +23,8 @@ Awards and Honors
 
 (Sep.2022) The Rose Endeavor Scholarship (4 Awarded/50 Applied) \
 (Sep.2020) Outstanding freshman scholarship (Top 30% Awarded) \
-(Apr.2022&2023) National Mathematics Competition For College Students (Second prize) \
+(Apr.2022) National Mathematics Competition For College Students (Second prize) \
+(Apr.2023) National Mathematics Competition For College Students (Second prize) \
 (Jun.2022) Outstanding Student Union Cadre (Top 40% Awarded) \
 (Sep.2022) USTC Outstanding Students Award (Top 30% Awarded) \
 
