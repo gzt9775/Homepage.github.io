@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Resume](https://github.com/gzt9775/Homepage.github.io/edit/master/_pages/cv.pdf)。
+[Resume](https://github.com/gzt9775/Homepage.github.io/edit/master/_pages/cv.pdf)
 
