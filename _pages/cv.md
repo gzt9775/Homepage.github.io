@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-cvurl: 'https://github.com/gzt9775/Homepage.github.io/edit/master/_pages/cv.pdf'
+cvurl: 'C:\Users\26085\Desktop\cv'
 ---
 
 {% include base_path %}
