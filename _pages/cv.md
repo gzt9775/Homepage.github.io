@@ -12,5 +12,5 @@ cvurl: 'https://github.com/gzt9775/Homepage.github.io/edit/master/_pages/cv.pdf'
 
 This paper is about the number 3. The number 4 is left for future work.
 
-[ss](https://github.com/gzt9775/Homepage.github.io/edit/master/files/cv.pdf)
+[ss](C:\Users\26085\Desktop\cv\cv.pdf)
 
