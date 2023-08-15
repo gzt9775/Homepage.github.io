@@ -18,18 +18,18 @@ I have broad interests in the span of network analysis, statistics, and optimiza
 Contact Information
 ======
 
-E-mail addresses: gzt9775@mail.ustc.edu.cn \
+E-mail: gzt9775@mail.ustc.edu.cn \
 Wechat:  gzt2608548964 \
 Mobile:  +86 18305722652
 
 Awards and Honors
 ======
 
-(Sep.2022) The Rose Endeavor Scholarship (4 Awarded/50 Applied, Scope of Selection: The Whole School students) \
-(Sep.2020) Outstanding freshman scholarship (40% Awarded, Scope of Selection: The Whole School Students) \
-(Apr.2022&2023) National Mathematics Competition For College Students (Second prize, Scope of Selection: All Participants) \
-(Jun.2022) Outstanding Student Union Cadre (4 Awarded/10 Applied, Scope of Selection: All Members of Student Union) \
-(Sep.2022) USTC Outstanding Students Award (15 Awarded/50 Applied, Scope of Selection: The Whole School students) \
+(Sep.2022) The Rose Endeavor Scholarship (4 Awarded/50 Applied) \
+(Sep.2020) Outstanding freshman scholarship (Top 30% Awarded) \
+(Apr.2022&2023) National Mathematics Competition For College Students (Second prize) \
+(Jun.2022) Outstanding Student Union Cadre (Top 40% Awarded) \
+(Sep.2022) USTC Outstanding Students Award (Top 30% Awarded) \
 
 
 Skills
