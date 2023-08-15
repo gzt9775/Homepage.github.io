@@ -33,4 +33,4 @@ Skills
 ======
   Programming: Python, R, C++, Matlab, Html, JavaScript, Java \
   Tools: Latex, Markdown, MySQL, Vue \
-  Soft Skills: Leadership, Event Management, Writing, Public Speaking, Time Management
+  Soft Skills: Academic Writing and Cooperation, Public Speaking, Time Management
