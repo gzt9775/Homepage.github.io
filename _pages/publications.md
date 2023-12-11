@@ -17,5 +17,5 @@ of Statistics.*
 - **Gui, Z.** (2023) M-SCORE: SCORE for Community Detection in Multi-layer Heterogeneous Networks with
 Covariates. *Manuscript in preparation.*
 
-- Yang, S.*, and <b>Gui, Z.\*</b> (2023) An introduction on the multivariate normal-ratio distribution. *Completed
+- Yang, S.\*, and <b>Gui, Z.\*</b> (2023) An introduction on the multivariate normal-ratio distribution. *Completed
 Manuscript.*
