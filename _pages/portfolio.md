@@ -15,6 +15,8 @@ author_profile: true
 
 - **achieved the highest score in Fundamentals of Statistical Algorithm course**
 
+![](https://github.com/gzt9775/gzt9775.github.io/blob/master/_portfolio/NEM.png)
+
 
 
 
