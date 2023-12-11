@@ -27,9 +27,21 @@ USTC Outstanding Students Award (2022, USTC, China) \
 National Mathematics Competition for College Students (2022, Second prize, China) \
 National Mathematics Competition for College Students (2023, Second prize, China)
 
-
 Skills
 ======
   Programming: Python, R, C++, Matlab, Html, JavaScript, Java \
   Tools: Latex, Markdown, Git, Vue \
   Soft Skills: Academic Writing and Cooperation, Public Speaking, Time Management
+
+People
+======
+I am lucky to work with the following talented students and my mentor:
+- Yu Chen (Statistics, Associate Professor at USTC)
+- Qi Liu (Data Science, Professor at USTC)
+- Xiao Chen (Statistics, fourth year Ph.D. student at USTC)
+- Zhuyue Jin (Statistics, fourth year Ph.D. student at USTC)
+- Zheng Zhang (Data Science, third year Ph.D. student at USTC)
+- Haoyuan Li (Statistics, fourth year undergraduate student at USTC)
+- Sijie Xu (Statistics, fourth year undergraduate student at USTC)
+- Wenjun Feng (Data Science, fourth year undergraduate student at USTC)
+- Sheng Yang (Mathematics, third year undergraduate student at Lanzhou University)
