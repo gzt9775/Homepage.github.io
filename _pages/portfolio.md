@@ -9,11 +9,11 @@ author_profile: true
 
 <br>
 
-### Multi-layer Community Detection With Network Embedding and Dependent Connectivity 
+### Multi-layer Community Detection with Network Embedding and Dependent Connectivity 
 
 <br>
 
-- **achieved the highest score in Fundamentals of Statistical Algorithm course**
+- **Receieved the highest score in Fundamentals of Statistical Algorithm course**
 
 ![](https://github.com/gzt9775/gzt9775.github.io/blob/master/_portfolio/NEM.png)
 
