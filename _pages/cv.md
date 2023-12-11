@@ -9,10 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<br>	
-<p>The resume can be downloaded here:</p>
-<br>	
-
+<p>The resume can be downloaded here:</p>	
 
 **[Resume](https://github.com/gzt9775/Homepage.github.io/blob/master/_pages/Resume.pdf)**
 
