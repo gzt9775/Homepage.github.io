@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! My name is ZhengtaoGui. I am currently completing my Bachelor's degree in Statistics at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). I was fortunate to be enrolled in the [School of the Gifted Young](https://sgy.ustc.edu.cn/) at USTC, for which I skipped my third year of high school. I have broad interests in the span of Statistics, Machine Learning, and Data Science. I am also very interested in interdisciplinary research. I enjoy using mathematical and computational tools to develop theoretical foundations and interesting methods for real-world problems. If you are interested in my background or want to chat or collaborate, feel free to contact me.
+Welcome to my homepage! My name is Zhengtao Gui. I am currently completing my Bachelor's degree in Statistics at the [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/). I was fortunate to be enrolled in the [School of the Gifted Young](https://sgy.ustc.edu.cn/) at USTC, for which I skipped my third year of high school. I have broad interests in the span of Statistics, Machine Learning, and Data Science. I am also very interested in interdisciplinary research. I enjoy using mathematical and computational tools to develop theoretical foundations and interesting methods for real-world problems. If you are interested in my background or want to chat or collaborate, feel free to contact me!
 
 Contact Information
 ======
