@@ -15,7 +15,7 @@ author_profile: true
 <b>Course suggestions:</b> During the lecture, the teacher will have many unique insights, and after listening, one will feel as if they've had an enlightening realization. Pay attention to understanding, don’t memorize by rote, and train more to develop intuitive intuition.
 <br>
 <br>
-<b>Enter the course evaluation community here: [Stochastic Processes](https://icourse.club/search/?q=%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB)</b>
+<b>Enter the course evaluation community here: [Stochastic Process](https://icourse.club/search/?q=%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8BB)</b>
 
 
 
