@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+<br>	
 <p>The resume can be downloaded here:</p>
 <br>	
 
