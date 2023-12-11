@@ -21,16 +21,16 @@ Mobile:  +86 18305722652
 Awards and Honors
 ======
 
-(Sep.2022) The Rose Endeavor Scholarship (4 Awarded/50 Applied) \
-(Sep.2020) Outstanding freshman scholarship (Top 30% Awarded) \
-(Apr.2022) National Mathematics Competition For College Students (Second prize) \
-(Apr.2023) National Mathematics Competition For College Students (Second prize) \
-(Jun.2022) Outstanding Student Union Cadre (Top 40% Awarded) \
-(Sep.2022) USTC Outstanding Students Award (Top 30% Awarded) 
+Outstanding Freshman Scholarship (2020, USTC, China) \
+The Rose Endeavor Scholarship (2022, USTC, China) \
+Outstanding Student Union Cadre (2022, USTC, China) \
+USTC Outstanding Students Award (2022, USTC, China) \
+National Mathematics Competition for College Students (2022, Second prize, China) \
+National Mathematics Competition for College Students (2023, Second prize, China)
 
 
 Skills
 ======
   Programming: Python, R, C++, Matlab, Html, JavaScript, Java \
-  Tools: Latex, Markdown, MySQL, Vue \
+  Tools: Latex, Markdown, Git, Vue \
   Soft Skills: Academic Writing and Cooperation, Public Speaking, Time Management
