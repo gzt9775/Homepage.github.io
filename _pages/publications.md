@@ -2,6 +2,7 @@
 layout: archive
 title: "Publications"
 author_profile: true
+permalink: /publications/
 ---
 
 ## Publications and Manuscripts (* co-first author)
