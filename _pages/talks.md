@@ -74,6 +74,26 @@ Core Participant, University of Science and Technology of China (Jul. 2022 - Jan
 - Investigated literature related to intelligent diagnosis and recommendation systems, reproduced associated algorithms and implemented API interfaces for these algorithms.
 - Developed and launched the CODIA website with our team. (This project won the championship in the ”Spark Cup” Cognitive Large Model Scene Innovation Competition. Congratulations!) [CODIA website link](https://code.bdaa.pro/)
 
+<br>
+
+**Network Analysis and Time Series Theory Reading Group (USTC, China)**
+
+Advisor: Prof. Yu Chen, Department of Statistics and Finance, USTC (Nov. 2022 - Present)
+
+- Conducted in-depth network analysis and time series literature review exploration, and actively participated in workshops to exchange research ideas with peers and supervisors.
+- Delivered eight presentations as the principal presenter, introducing combined models related to Time Series, as well as algorithms for Network Clustering, Tucker Decomposition, and others.
+- Guided discussions and actively proposed research ideas in each group meeting, evaluating the feasibility of research ideas through theoretical analysis and simulation experiments.
+
+<br>
+
+**Neural Networks and Cognitive Diagnosis Seminar (USTC, China)**
+
+Advisor: Prof. Qi Liu, Department of Data Science, USTC (Jul. 2022 - Feb. 2023)
+
+- Actively participated in and discussed the research on cognitive diagnostic models, offering insights and reporting on research progress.
+- Systematically read and studied several books (e.g. Hands-on Deep Learning, Statistical Learning Methods), as well as some review papers and popular neural network models.
+- Delivered presentations on articles related to neural cognitive diagnostic models and led the research group to understand the core principles of the model and discuss research ideas.
+
   
 
 
