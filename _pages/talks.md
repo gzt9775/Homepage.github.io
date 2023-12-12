@@ -20,8 +20,6 @@ During my undergraduate years, I also explored various research areas, hoping to
 
 # Research Experience
 
-<br>
-
 **Time Series Forecasting Framework: Capturing Underlying Volatility Information (USTC, China)**
 
 Team Leader, University of Science and Technology of China (Dec. 2022 - Jul. 2023)
