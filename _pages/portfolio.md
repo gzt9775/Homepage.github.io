@@ -9,10 +9,20 @@ author_profile: true
 
 ## Mathematics and Statistics
 
-- Mathematical analysis
+- **Mathematical analysis**
   - [Peking University Mathematical Analysis](http://faculty.bicmr.pku.edu.cn/~zhennan/teaching/MA18/index.html)
   - [MIT Multivariable Calculus](https://www.bilibili.com/video/BV1Us411B7tn/?from=search&seid=8744076019470883344&spm_id_from=333.337.0.0)
   - [Notes from Xue Ruocha](https://zhuanlan.zhihu.com/p/36244377)
+- **Linear Algebra**
+  - [Summary of Advanced Algebra](home.ustc.edu.cn/~zhengjiming/2020/05/13/linealgbra/#向量空间)
+  - [Notes of "Linear Algebra Should Be Learned This Way"](https://lam8da.github.io/2019/07/22/linear-algebra-done-right-notes1/)
+  - [Graphical Linear Algebra (Note: Intuitive Understanding of Geometry)][https://mathpretty.com/9172.html]
+  - [MIT Linear Algebra](https://www.bilibili.com/video/BV1ix411f7Yp/?from=search&seid=5444004264461430011&spm_id_from=333.337.0.0)
+  - [Notes from Xue Ruocha](https://zhuanlan.zhihu.com/p/35567667)
+- **Discrete Mathematics**
+  - [USTC Ding Hu Discrete Mathematics Course Notes in 2020 (Extraction Code: cse0)](https://rec.ustc.edu.cn/share/e81c7080-8bde-11eb-b2c3-51119829739d)
+  - [Xue Ruocha：Abstract Algebra Learning Notes](https://zhuanlan.zhihu.com/p/30384157?group_id=906969603532791808)
+ 
 
 # Course Projects
 <br>
