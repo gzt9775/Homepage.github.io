@@ -11,6 +11,6 @@ redirect_from:
 
 <p>The resume can be downloaded here:</p>	
 
-<a href="C:\Users\26085\Desktop\Resume.pdf" download>Resume</a>
+<a href="Resume.pdf" download>Resume</a>
 
 
