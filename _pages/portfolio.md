@@ -9,6 +9,8 @@ author_profile: true
 
 # Course Resources
 
+*Here I've compiled some useful course resources that I discovered during my undergraduate studies at USTC, hoping they can assist students who are passionate about learning.*
+
 ## Mathematics and Statistics
 
 - **Mathematical analysis**
