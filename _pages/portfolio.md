@@ -5,7 +5,7 @@ title: "Study"
 author_profile: true
 ---
 
-<br>
+---
 
 # Course Resources
 
