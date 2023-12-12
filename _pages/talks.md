@@ -9,7 +9,7 @@ Realizing the need for a solid and diverse educational foundation for deeper sta
 
 During my undergraduate years, I also explored various research areas, hoping to delve into more fields in the future to address genuinely interesting and meaningful problems. I am particularly interested in the development and application of statistical and data science methodologies, as well as interdisciplinary research in statistics with fields like physics and biology. In-depth exploration of different disciplines can broaden one's perspective, equipping one with core technologies and offering more choices for the future. The prospect of using my methods to solve real-world problems has always been exhilarating.
 
-### Research Interests
+# Research Interests
 
 - Interdisciplinary Study
 - Network Analysis
@@ -18,7 +18,7 @@ During my undergraduate years, I also explored various research areas, hoping to
 - Data Science
 - Deep Learning Theory
 
-### Research Experience
+# Research Experience
 
 <br>
 
