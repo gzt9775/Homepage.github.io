@@ -1,12 +1,20 @@
 ---
 layout: archive
-title: "Projects"
+title: "Study"
 permalink: /portfolio/
 author_profile: true
 ---
 
-## Here I have documented some of my project experiences during my undergraduate years at companies, school labs, or within university courses. Most of the course projects achieved the highest scores in the entire department.
+# Course Resources
 
+## Mathematics and Statistics
+
+- Mathematical analysis
+  - [Peking University Mathematical Analysis](http://faculty.bicmr.pku.edu.cn/~zhennan/teaching/MA18/index.html)
+  - [MIT Multivariable Calculus](https://www.bilibili.com/video/BV1Us411B7tn/?from=search&seid=8744076019470883344&spm_id_from=333.337.0.0)
+  - [Notes from Xue Ruocha](https://zhuanlan.zhihu.com/p/36244377)
+
+# Course Projects
 <br>
 
 ### Multi-layer Community Detection with Network Embedding and Dependent Connectivity 
