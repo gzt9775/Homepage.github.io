@@ -11,7 +11,6 @@ redirect_from:
 
 <p>The resume can be downloaded here:</p>	
 
-<a href="Resume.pdf" download>Resume</a>
+<a href="C:\Users\26085\Desktop\Resume.pdf" download>Resume</a>
 
-**[Resume](https://github.com/gzt9775/Homepage.github.io/blob/master/_pages/Resume.pdf)**
 
