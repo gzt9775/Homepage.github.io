@@ -1,6 +1,7 @@
 ---
 layout: archive
 permalink: /portfolio/
+title: "Study"
 author_profile: true
 ---
 
