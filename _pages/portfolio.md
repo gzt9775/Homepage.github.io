@@ -4,8 +4,6 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-<br>
-
 # Course Resources
 
 ## Mathematics and Statistics
