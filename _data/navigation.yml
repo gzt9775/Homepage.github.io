@@ -12,11 +12,11 @@ main:
   - title: "Study"
     url: /portfolio/
         
-  - title: "Extracurricular"
+  - title: "Activities"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  # url: /cv/
     
   #- title: "Guide"
   #  url: /markdown/
