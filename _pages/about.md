@@ -21,11 +21,11 @@ Awards and Honors
 ======
 
 Outstanding Freshman Scholarship (2020, USTC, China) \
-The Rose Endeavor Scholarship (2022, USTC, China) \
+Rose Fund Endeavor Scholarship (2022, USTC, China) \
 Outstanding Student Union Cadre (2022, USTC, China) \
-USTC Outstanding Students Award (2022, USTC, China) \
-National Mathematics Competition for College Students (2022, Second prize, China) \
-National Mathematics Competition for College Students (2023, Second prize, China)
+Outstanding Student Scholarship (2022, USTC, China) \
+The Chinese Mathematics Competitions (2022, Second prize, China) \
+The Chinese Mathematics Competitions (2023, Second prize, China)
 
 Skills
 ======
