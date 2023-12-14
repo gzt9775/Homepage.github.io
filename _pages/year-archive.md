@@ -1,10 +1,12 @@
 ---
 layout: archive
 permalink: /year-archive/
-title: "Blog posts"
+title: "Activities"
 author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
 ---
+
+
 
 
