@@ -8,5 +8,9 @@ redirect_from:
 ---
 
 
+<img src="https://github.com/gzt9775/gzt9775.github.io/blob/master/_portfolio/NEM.png" alt="NEM">
+
+<img src="method.png" alt="NEM">
+
 
 
