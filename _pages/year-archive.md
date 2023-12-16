@@ -7,7 +7,9 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-*If you're interested in my life experiences and personal hobbies, please try this link:* [Miscellaneous]([https://www.notion.so/Designer-Portfolio-cb21c82498184bd380748f69d1eb277b](https://www.notion.so/Activities-cad20da26e724ea88e7bfc240c66e053)https://www.notion.so/Activities-cad20da26e724ea88e7bfc240c66e053)
+*If you're interested in my life experiences and personal hobbies, please try this link:* 
+
+[Miscellaneous](https://www.notion.so/Activities-cad20da26e724ea88e7bfc240c66e053)
 
 
 
