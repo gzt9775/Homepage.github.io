@@ -109,6 +109,25 @@ author_profile: true
   - [Pytorch](https://pytorch.org/)
   - [Knowing AI](https://space.bilibili.com/237111975)
 
+## Sociology, History and Economics
+
+- **Human History**
+  - [A Brief Introduction to Human History](https://www.bilibili.com/video/BV1f4411x7E9/?spm_id_from=333.999.0.0)
+  - ["Guns, Germs and Steel": Recommended Reading](https://www.bilibili.com/video/BV1Tx411D7ni/?from=search&seid=675407549973582138&spm_id_from=333.337.0.0)
+  - ["Global History": Recommended Reading](https://www.bilibili.com/video/BV18P4y1s7xa/?spm_id_from=333.788.recommend_more_video.2)
+  - [A Brief History of the Future: The Death of Liberalism?](https://www.bilibili.com/video/BV1JT4y197Lp/?spm_id_from=333.337.search-card.all.click&vd_source=e23f64442560de83400d923391ddd45b)
+- **Social Science**
+  - [Thought Lab, a Recommended Blogger](https://space.bilibili.com/14583962?from=search&seid=4870194314942835688&spm_id_from=333.337.0.0)
+  - [Crash Course](https://www.bilibili.com/video/BV1Ux411k76Z/?from=search&seid=16664826655277703844&spm_id_from=333.337.0.0)
+  - [Guo, Fei's Personal Homepage](https://www.guofei.site/pages/reading.html)
+- **Economy**
+  - [MIT: Microeconomics](https://www.bilibili.com/video/BV1MV411U75D/?from=search&seid=13200181373873327036)
+  - [How the Economic Machine Works](https://www.bilibili.com/video/BV1tJ411k7fq/)
+  - [Macroeconomics: Peking University Guanghua School of Management](https://www.bilibili.com/video/av77739800/?p=1)
+## Other topics
+
+ 
+
 
 # Course Projects
 
