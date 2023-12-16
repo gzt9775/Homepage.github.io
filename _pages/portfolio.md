@@ -124,7 +124,7 @@ author_profile: true
   - [MIT: Microeconomics](https://www.bilibili.com/video/BV1MV411U75D/?from=search&seid=13200181373873327036)
   - [How the Economic Machine Works](https://www.bilibili.com/video/BV1tJ411k7fq/)
   - [Macroeconomics: Peking University Guanghua School of Management](https://www.bilibili.com/video/av77739800/?p=1)
-  - 
+    
 ## Other topics
 
 - [Training Design Thinking](https://www.bilibili.com/video/BV1f4411377j/?from=search&seid=8744076019470883344&spm_id_from=333.337.0.0)
