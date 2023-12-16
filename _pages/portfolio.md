@@ -125,20 +125,44 @@ author_profile: true
   - [How the Economic Machine Works](https://www.bilibili.com/video/BV1tJ411k7fq/)
   - [Macroeconomics: Peking University Guanghua School of Management](https://www.bilibili.com/video/av77739800/?p=1)
 ## Other topics
-
- 
+- [Training Design Thinking](https://www.bilibili.com/video/BV1f4411377j/?from=search&seid=8744076019470883344&spm_id_from=333.337.0.0)
+- [TOEFL Practice Website](https://toefl.kmf.com/n/home)
+- [Castle in the Sky](https://www.skypixel.com/)
+- [PS Tutorial](https://creativecloud.adobe.com/learn/photoshop/web/ps-basics-fundamentals)
+- [See China with 100 Billion Pixels](http://bigpixel.cn/zh-CN.html)
+- [Virtual Travels](https://www.airpano.com/)
 
 
 # Course Projects
 
+---
 
 ### Multi-layer Community Detection with Network Embedding and Dependent Connectivity 
 
-- **Receieved the highest score in Fundamentals of Statistical Algorithm course**
+**Course Name: Fundamentals of Statistical Algorithm (Achieved the Highest Score in the Statistics Department)**
 
-We propose a novel method by building network embeddings and detecting in-communities and out-communities in directed multi-layer networks. Network embedding has been a popular tool to represent network in a low-dimensional vector space so that network structure can be largely preserved. Different from the existing network embeddings, the proposed method incorporates correlation information among connectivities to achieve more accurate community detection than independent likelihood method using marginal information only. The key idea is to approximate the joint distribution of correlated within-community connectivities by using a truncated Bahadur representation. The Bahadur representation is a mathematical tool used in statistics to approximate the likelihood function of a sum of dependent random variables. Although the approximate likelihood function is not the true likelihood, it is able to maximize the true community memberships and serves as tighter lower bound to the true likelihood compared with the independent likelihood. Consequently, we identify communities via maximizing the approximate likelihood function. Compared to the existing random-effects model, the proposed method is more flexible in modeling the communities for multiple networks and correlations among edges.
+ - Extended network embedding model for detecting inner and outer communities in directed multi-layer networks and incorporating correlation information between connections.
+ - Designed an optimization iterative algorithm for the proposed model to maximize the joint likelihood function.
+ - Conducted simulation experiments to evaluate the model's performance and applied it to real-world datasets for research.
 
-[Project](https://github.com/gzt9775/gzt9775.github.io/tree/master/_portfolio/project.zip)
+### Time-series Forecasting Using ARIMA-GARCH and Neural Network
+
+**Course Name: Time Series Analysis (Selected for Exhibition as an Outstanding Course Work)**
+
+ - Researched contemporary popular time series ensemble models and learned signal processing algorithms like Empirical Mode Decomposition.
+ - Expanded the VMD-GARCH/LSTM-LSTM model into a more diverse range of neural networks, exploring the performance of different neural networks.
+ - Utilized MAE and RMSE metrics to compare our experimental results, finding that replacing the LSTM model with a classic RNN model significantly improved prediction accuracy on some datasets.
+
+### Vehicle Data Analysis and Driver Behavior Prediction
+
+**Course Name: Applied Statistical Software (Achieved the Highest Score in the Statistics Department)**
+
+ - Rectified measurement errors within experimental data and executed fundamental data processing.
+ - Carried out a detailed analysis of vehicle networking data using statistical methods, including: box plot analysis, fitting
+error analysis, quantile regression analysis, time series analysis and cluster analysis.
+ - Investigated the correlation between car speed change rates and wheel speed, and visualized the car gear’s time series
+diagram based on the findings.
+ - Analyzed driver’s behavior habits and inferred road conditions, including road openess and the presence of traffic lights.
 
 
 
