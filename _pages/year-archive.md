@@ -7,10 +7,7 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-
-<img src="https://github.com/gzt9775/gzt9775.github.io/blob/master/_portfolio/NEM.png" alt="NEM">
-
-<img src="method.png" alt="NEM">
+[Welcome](https://www.notion.so/Designer-Portfolio-cb21c82498184bd380748f69d1eb277b)
 
 
 
