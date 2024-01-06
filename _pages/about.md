@@ -33,15 +33,3 @@ Skills
   Tools: Latex, Markdown, Git, Vue \
   Soft Skills: Academic Writing and Cooperation, Public Speaking, Time Management
 
-People
-======
-I am lucky to work with the following talented students and my mentor:
-- Yu Chen (Statistics, Associate Professor at USTC)
-- Qi Liu (Data Science, Professor at USTC)
-- Xiao Chen (Statistics, fourth year Ph.D. student at USTC)
-- Shuyue Jin (Statistics, fourth year Ph.D. student at USTC)
-- Zheng Zhang (Data Science, third year Ph.D. student at USTC)
-- Haoyuan Li (Statistics, fourth year undergraduate student at USTC)
-- Sijie Xu (Statistics, fourth year undergraduate student at USTC)
-- Wenjun Feng (Data Science, fourth year undergraduate student at USTC)
-- Sheng Yang (Mathematics, third year undergraduate student at Lanzhou University)
