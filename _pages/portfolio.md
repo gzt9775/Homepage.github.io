@@ -138,7 +138,7 @@ author_profile: true
 
 # Course Projects
 
----
+*Here I have listed some of the course projects I completed during my undergraduate studies. Most of these projects achieved the highest scores in the entire statistics department. If you are interested in these projects, please feel free to communicate with me via email or WeChat.*
 
 ### Multi-layer Community Detection with Network Embedding and Dependent Connectivity 
 
