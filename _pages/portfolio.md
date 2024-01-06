@@ -134,6 +134,7 @@ author_profile: true
 - [See China with 100 Billion Pixels](http://bigpixel.cn/zh-CN.html)
 - [Virtual Travels](https://www.airpano.com/)
 
+<br>
 
 # Course Projects
 
