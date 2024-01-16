@@ -15,7 +15,7 @@ Covariates. *Manuscript in preparation.*
 
 - Jin, S., **Gui, Z.**, Hu, J., and Chen, Y. Community Detection and Network Reconstruction with
 Dependent Connectivity from Rich but Noisy Network Data. *Submitted to Australian & New Zealand Journal
-of Statistics.*
+of Statistics. (Major Revision)*
 
 - Yang, S.\*, and <b>Gui, Z.\*</b> Multivariate Normal-ratio Distribution: Basic Theory and Applications. *Completed
 Manuscript.*
